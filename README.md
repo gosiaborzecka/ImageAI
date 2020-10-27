@@ -9,6 +9,8 @@ An open-source python library built to empower developers to build applications 
  
  <span class="badge-patreon"><a href="https://patreon.com/OlafenwaMoses" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span> 
  
+[ Click here](#sponsors) to see all [sponsors](#sponsors) for the **ImageAI** project!
+ 
 ![](logo1.png)
 
 An **DeepQuest AI** (A Brand of AI Commons Global Limited)  project [deepquestai.com](https://deepquestai.com).
@@ -56,6 +58,7 @@ What's new:
 - <a href="#recommendation" > :white_square_button: AI Practice Recommendations</a>
 - <a href="#contact" > :white_square_button: Contact Developers</a>
 - <a href="#citation" > :white_square_button: Citation</a>
+- <a href="#sponsors" > :white_square_button: Sponsors</a>
 - <a href="#contributors" > :white_square_button: Contributors</a>
 - <a href="#ref" > :white_square_button: References</a>
 
@@ -67,8 +70,8 @@ What's new:
 To use **ImageAI** in your application developments, you must have installed the following 
  dependencies before you install **ImageAI** : 
  
- - Python 3.5.1 (and later versions) (Support for Python 2.7 coming soon
- - Tensorflow 1.4.0 (and later versions)
+ - Python 3.5.1 (and later versions)
+ - Tensorflow 1.4.0 (and later versions) **(Tensorflow 2.0 coming soon)**
  - OpenCV 
  - Keras 2.x 
  
@@ -288,10 +291,11 @@ We have provided full documentation for all **ImageAI** classes and functions in
 
 ### Projects Built on ImageAI
 <div id="sample"></div>
- 
-As a demonstration of  what you can do with ImageAI, we have 
- built a complete AI powered Photo gallery for Windows called **IntelliP** ,  using **ImageAI** and UI framework **Kivy**.
-Follow this [IntelliP](https://github.com/OlafenwaMoses/IntelliP) to download page of the application and its source code.
+
+
+<u> [BatBot](https://github.com/LeeHounshell/BatBot) :</u> BatBot is an open source Intelligent Research Robot with image and speech recognition. It comes with an Android App which allows you to speak voice commands and instruct the robot to find objects using its camera and an AI engine powered by **ImageAI**. It also allows you to re-train and improve the AI capabilities from new images captured by the robot. Learn more about the incredible capabilities and components of **BatBot** via the [GitHub repository](https://github.com/LeeHounshell/BatBot) . It is developed and maintained by [Lee Hounshell](https://github.com/LeeHounshell)
+
+
 
  We also welcome submissions of applications and systems built by you and powered by ImageAI for listings here.
  Should you want your ImageAI powered developments listed here, you can reach to us via our <a href="#contact" >Contacts</a> below.
@@ -317,7 +321,7 @@ Kindly follow the link below to download the publication.
     * _Twitter:_ [@OlafenwaMoses](https://twitter.com/OlafenwaMoses)
     * _Medium:_ [@guymodscientist](https://medium.com/@guymodscientist)
     * _Facebook:_ [moses.olafenwa](https://facebook.com/moses.olafenwa)
-- **Moses Olafenwa**
+- **John Olafenwa**
     * _Email:_ johnolafenwa@gmail.com
     * _Website:_ [https://john.aicommons.science](https://john.aicommons.science)
     * _Twitter:_ [@johnolafenwa](https://twitter.com/johnolafenwa)
@@ -354,6 +358,13 @@ You can cite **ImageAI** in your projects and research papers via the **BibTeX**
     year   = "2018--"
 }
 ```
+
+
+<div id="sponsors"></div>
+
+### >>> Basic Sponsors
+
+[<img src="https://avatars1.githubusercontent.com/u/46119184?s=460&v=" alt="David Lopez" style="width:50px;"/>](https://github.com/daviddbarrero)
 
 
  ### References
